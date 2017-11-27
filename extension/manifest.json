@@ -22,7 +22,6 @@
     "storage",
     "unlimitedStorage",
     "tabs",
-    "<all_urls>",
     "notifications"
   ],
   "background": { "scripts": [ "js/eventPage.js" ], "persistent": false }
